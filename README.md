@@ -26,5 +26,6 @@ It quietly remembers your firsts, deaths, fights and the places that mattered, t
 - Bugs & ideas: [Journeykeeper Issues](https://github.com/LazyLlamaDev/Journeykeeper/issues)
 - X: [@LazyLlamaDev](https://x.com/LazyLlamaDev)
 - Reddit: [u/LazyLlamaDev](https://www.reddit.com/user/LazyLlamaDev)
+- Discord: [discord.gg/EYEuYJxY4U](https://discord.gg/EYEuYJxY4U)
 
 <sub>Not affiliated with or endorsed by Blizzard Entertainment. World of Warcraft® is a trademark of Blizzard Entertainment, Inc.</sub>
